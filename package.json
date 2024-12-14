@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "@devvit/kit": "^1.1.4",
-    "@devvit/public-api": "^0.10.0",
+    "@devvit/public-api": "^0.11.4",
     "@react-spring/three": "^9.7.3",
     "@react-three/drei": "^9.120.4",
     "@react-three/fiber": "^8.17.3",
